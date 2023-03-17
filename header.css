@@ -1,0 +1,120 @@
+body {
+  background-color: whitesmoke;
+}
+.back-image {
+  background-image: url(https://www.bing.com/images/blob?bcid=ROvF0TIycF4F.o7ZSs8j014mayfH.....yg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 20px;
+  margin: -8px;
+}
+.img1 {
+  margin: -0.1%;
+  width: 2700px;
+  height: 1000px;
+}
+.header {
+  padding-top: 0%;
+  padding: 25px;
+  font-size: 1.1rem;
+  line-height: 0.01rem;
+  word-spacing: normal;
+  text-align: center;
+  background-color: 475657;
+  color: whitesmoke;
+  cursor: pointer;
+  margin: -5px;
+}
+.header-2 {
+  font-size: 1.1rem;
+  line-height: 0.01rem;
+  word-spacing: normal;
+  text-align: center;
+  background-color: 475657;
+  color: whitesmoke;
+  cursor: pointer;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.BTN1 {
+  padding: 3px;
+  font-size: large;
+  font-family: fantasy;
+  border: none;
+  color: maroon;
+  background-color: transparent;
+}
+.BTN2 {
+  font-weight: 600;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  border: none;
+  color: maroon;
+  background-color: transparent;
+  cursor: pointer;
+}
+.BTN3 {
+  font-weight: 600;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  border: none;
+  color: maroon;
+  background-color: transparent;
+  cursor: pointer;
+}
+.BTN4 {
+  font-weight: 600;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  border: none;
+  color: maroon;
+  background-color: transparent;
+  cursor: pointer;
+}
+.BTN5 {
+  margin: 10px;
+  padding: 8px;
+  padding-inline: 15px;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: whitesmoke;
+  border-color: transparent;
+  border-radius: 10px;
+  background-color: maroon;
+  cursor: pointer;
+  flex-grow: initial;
+}
+h1 {
+  justify-content: left;
+  justify-self: right;
+  padding: px;
+  font-size: 45px;
+  font-weight: 400;
+  word-spacing: 10px;
+  color: maroon;
+}
+.order-btn {
+  cursor: pointer;
+  padding: 12px;
+  padding-inline: 100px;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: maroon;
+  border: none;
+  border-radius: 15px;
+}
+.main {
+  padding: 20px;
+  padding-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.main2 {
+  padding-top: 100px;
+}
